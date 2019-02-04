@@ -1,0 +1,23 @@
+{
+  "title": "MUDs hosted by Vineyard",
+  "mud_list": [
+    {
+      "mud_name": "EmpireMUD",
+      "server": "EmpireMUD 2.0",
+      "server_address": "empiremud.net",
+      "server_port": "4000",
+    },
+    {
+      "mud_name": "PhoenixMUD",
+      "server": "CircleMUD",
+      "server_address": "phoenixmud.net",
+      "server_port": "4000",
+    },
+    {
+      "mud_name": "Eternal Darkness",
+      "server": "CircleMUD",
+      "server_address": "eternaldarkness.net",
+      "server_port": "9700",
+    }
+  ]
+}

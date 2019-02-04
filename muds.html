@@ -1,0 +1,25 @@
+---
+layout: list
+title: MUDs hosted by Vineyard
+---
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">MUD Name</th>
+      <th scope="col">Server</th>
+      <th scope="col">Connection Info</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% assign muds = site.data.mud_list | reverse %}
+  {% for mud_list in mud_list %}
+      <tr>    {% if mud_list.mud_name %}
+        <td>1{{ mud_list.mud_name }}</th>
+        <td>{{ mud_list.server }}</td>
+        <td><a href="telnet://{{ mud_list.server_address }}:{{ mud_list.server_port }}">{{ mud_list.server_address }} {{ mud_list.server_port }}</td>
+              {% endif %}
+      </tr>
+  {% endfor %}
+</tbody>
+</table>
