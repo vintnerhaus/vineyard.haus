@@ -26,12 +26,6 @@
       "server_port": "7777",
     },
     {
-      "mud_name": "PhoenixMUD",
-      "server": "CircleMUD",
-      "server_address": "phoenixmud.net",
-      "server_port": "4000",
-    },
-    {
       "mud_name": "Dibrova",
       "server": "CircleMUD",
       "server_address": "dibrovamud.com",
