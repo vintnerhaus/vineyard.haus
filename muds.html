@@ -6,12 +6,13 @@ title: MUDs hosted by Vineyard
 
 <br>
 <center>
-  <table class="table" width="75%">
+  <table class="table">
   <thead>
     <tr>
       <th scope="col">MUD Name</th>
       <th scope="col">Server</th>
       <th scope="col">Connection Info</th>
+      <th scope="col">&nbsp;</th>
     </tr>
   </thead>
   <tbody>
@@ -21,6 +22,7 @@ title: MUDs hosted by Vineyard
         <td>{{ mud.mud_name }}</td>
         <td>{{ mud.server }}</td>
         <td><a href="telnet://{{ mud.server_address }}:{{ mud.server_port }}">{{ mud.server_address }} {{ mud.server_port }}</td>
+        <td>{% if mud.site %}<a href="{{ mud.site }}" target="_blank"><img src="/images/site.png" border="0">{% endif %}</a></td>
       </tr>
   {% endfor %}
 </tbody>
