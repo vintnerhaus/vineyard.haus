@@ -14,7 +14,7 @@ title: MUDs hosted by Vineyard
   </thead>
   <tbody>
   {% for mud in site.data.mud_list.muds %}
-  {% assign mud =  mud | sort: 'mud_name'}
+  {% assign mud = (site.data.mud_list.muds | sort: 'mud_name')}
       <tr>
         <td>{{ mud.mud_name }}</td>
         <td>{{ mud.server }}</td>
