@@ -18,7 +18,7 @@
     {
       "mud_name": "3rd Millennium",
       "server": "CircleMUD",
-      "site": "3m.funcity.org"
+      "site": "3m.funcity.org",
       "server_address": "3m.funcity.org",
       "server_port": "3000",
     },
@@ -81,7 +81,7 @@
     {
       "mud_name": "Atlantis",
       "server": "ExVenture",
-      "site": "atlantis.exventure.world"
+      "site": "atlantis.exventure.world",
       "server_address": "atlantis.exventure.world",
       "server_port": "5555",
     },
