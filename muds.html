@@ -13,7 +13,7 @@ title: MUDs hosted by Vineyard
     </tr>
   </thead>
   <tbody>
-  {% for mud in site.data.mud_list.muds | sort: 'site.data.mud_list.muds.mud_name' %}
+  {% for mud in site.data.mud_list.muds | sort: 'muds.mud_name' %}
       <tr>
         <td>{{ mud.mud_name }}</td>
         <td>{{ mud.server }}</td>
