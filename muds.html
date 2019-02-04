@@ -12,12 +12,12 @@ title: MUDs hosted by Vineyard
     </tr>
   </thead>
   <tbody>
-  {% assign muds = site.data.mud_list | reverse %}
-  {% for muds in mud_list %}
+  {% assign mud = site.data.mud_list | reverse %}
+  {% for mud in mud_list %}
       <tr>
-        <td>1{{ mud_list.mud_name }}</th>
-        <td>{{ mud_list.server }}</td>
-        <td><a href="telnet://{{ muds.server_address }}:{{ muds.server_port }}">{{ muds.server_address }} {{ muds.server_port }}</td>
+        <td>1{{ mud.mud_name }}</th>
+        <td>{{ mud.server }}</td>
+        <td><a href="telnet://{{ mud.server_address }}:{{ mud.server_port }}">{{ mud.server_address }} {{ mud.server_port }}</td>
       </tr>
   {% endfor %}
 </tbody>
