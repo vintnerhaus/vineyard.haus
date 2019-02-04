@@ -1,6 +1,6 @@
 {
   "title": "MUDs hosted by Vineyard",
-  "mud_list": [
+  "muds": [
     {
       "mud_name": "EmpireMUD",
       "server": "EmpireMUD 2.0",

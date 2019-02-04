@@ -12,8 +12,8 @@ title: MUDs hosted by Vineyard
     </tr>
   </thead>
   <tbody>
-  {% assign mud = site.data.mud_list | reverse %}
-  {% for mud in mud_list %}
+  {% assign mud = site.data.muds | reverse %}
+  {% for mud in muds %}
       <tr>
         <td>1{{ mud.mud_name }}</th>
         <td>{{ mud.server }}</td>
