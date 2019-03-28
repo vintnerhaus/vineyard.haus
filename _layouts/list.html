@@ -1,52 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="MUD Hosting">
-    <meta name="author" content="Vineyard">
 
-    <title>{{ page.title }}</title>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Free Hosting for MUDs, talkers, web pages, and many other online applications.">
+  <meta name="author" content="Vineyard">
 
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/css/overrides.css">
-    <link rel="stylesheet" href="/css/app.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
-  </head>
+  <title>{{ page.title }}</title>
 
-  <body id="body">
-    <header>
-      <nav class="navbar navbar-expand-md">
-        <div class="container">
-          <a href="/">
-            <img src="/images/vineyard.png" height="30" />
-          </a>
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/overrides.css">
+  <link rel="stylesheet" href="/css/app.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css"
+    integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+</head>
 
-          <div class="collapse navbar-collapse" id="navbarLinks">
-            <ul class="navbar-nav ml-auto">
-              <li class="nav-item">
-                <a href="/muds" class="nav-link">MUDs</a>
-              </li>
-              <li class="nav-item">
-                <a href="https://vintner.haus/" class="nav-link">Vintner</a>
-              </li>
-            </ul>
-          </div>
+<body id="body">
+  <header>
+    <nav class="navbar navbar-expand-md">
+      <div class="container">
+        <a href="/">
+          <img src="/images/vineyard.png" height="30" />
+        </a>
+
+        <div class="collapse navbar-collapse" id="navbarLinks">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a href="/about" class="nav-link">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a href="/muds" class="nav-link">Hosted MUDs</a>
+            </li>
+            <li class="nav-item">
+              <a href="/hostme" class="nav-link">Request Hosting</a>
+            </li>
+            <li class="nav-item">
+              <a href="https://vintner.haus/" class="nav-link">Vintner</a>
+            </li>
+          </ul>
         </div>
-      </nav>
-    </header>
-
-    <main>
-      <div class="container">
-        {{ content }}
       </div>
-    </main>
+    </nav>
+  </header>
 
-    <footer>
-      <div class="container">
-        <a href="https://gossip.haus/conduct">Code of Conduct</a>
-      </div>
-    </footer>
-  </body>
+  <main>
+    <div class="container">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      Copyright &copy; 1998 - 2019 Funcity. All Rights Reserved. <a href="https://gossip.haus/conduct">Code of
+        Conduct</a>
+    </div>
+  </footer>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133231361-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'UA-133231361-2');
+  </script>   
+</body>
+
 </html>
