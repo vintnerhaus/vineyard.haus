@@ -112,6 +112,13 @@
       "site": "eternaldarkness.net",
       "server_address": "eternaldarkness.net",
       "server_port": "9700",
-    }
+    },
+    {
+      "mud_name": "Marauder Grid MUD",
+      "server": "ExVenture",
+      "site": "maraudergrid.com",
+      "server_address": "maraudergrid.com",
+      "server_port": "5555",
+    },
   ]
 }
