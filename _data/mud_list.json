@@ -120,5 +120,12 @@
       "server_address": "maraudergrid.com",
       "server_port": "5555",
     },
+    {
+      "mud_name": "Luminari MUD",
+      "server": "CircleMUD",
+      "site": "luminarimud.com",
+      "server_address": "luminarimud.com",
+      "server_port": "4100",
+    },
   ]
 }
