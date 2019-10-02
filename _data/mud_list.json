@@ -86,13 +86,6 @@
       "server_port": "5555",
     },
     {
-      "mud_name": "Olympia",
-      "server": "ExVenture",
-      "site": "olympia.exventure.world",
-      "server_address": "olympia.exventure.world",
-      "server_port": "5555",
-    },
-    {
       "mud_name": "MidMUD",
       "server": "ExVenture",
       "site": "midmud.com",
