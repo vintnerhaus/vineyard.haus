@@ -120,5 +120,13 @@
       "server_address": "luminarimud.com",
       "server_port": "4100",
     },
+  },
+  {
+    "mud_name": "The Darkening Sun",
+    "server": "Dawn of Time",
+    "site": "darkeningsun.com",
+    "server_address": "darkeningsun.com",
+    "server_port": "5678",
+  },
   ]
 }
