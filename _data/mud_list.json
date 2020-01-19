@@ -127,5 +127,12 @@
       "server_address": "darkeningsun.com",
       "server_port": "5678",
     },
+    {
+      "mud_name": "Whispers of Times Lost",
+      "server": "Dawn of Time",
+      "site": "www.reddit.com/r/wotlmud",
+      "server_address": "wotl.vineyard.haus",
+      "server_port": "3000",
+    },
   ]
 }
