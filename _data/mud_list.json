@@ -134,5 +134,12 @@
       "server_address": "wotl.vineyard.haus",
       "server_port": "3000",
     },
+    {
+      "mud_name": "Devil's Bob MUD",
+      "server": "CircleMUD",
+      "site": "debomud.org",
+      "server_address": "debomud.org",
+      "server_port": "4000",
+    },
   ]
 }
