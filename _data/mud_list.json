@@ -135,6 +135,13 @@
       "server_port": "3000",
     },
     {
+      "mud_name": "Dark Risings",
+      "server": "ROM",
+      "site": "darkrisings.org",
+      "server_address": "darkrisings.org",
+      "server_port": "1313",
+    },
+    {
       "mud_name": "Devil's Bob MUD",
       "server": "CircleMUD",
       "site": "debomud.org",
