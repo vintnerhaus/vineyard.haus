@@ -1,9 +1,9 @@
 markdown: redcarpet
 relative_permalinks: false
 
-title: Vintner
-description: Home of Grapevine and Vineyard
-url: https://vintner.haus
+title: Vineyard
+description: Vineyard, where the hosting is free and you get more than what you pay for.
+url: https://vineyard.haus
 
 exclude:
 - Gemfile

@@ -100,13 +100,6 @@
       "server_port": "4000",
     },
     {
-      "mud_name": "2016's Eternal Darkness",
-      "server": "CircleMUD",
-      "site": "eternaldarkness.net",
-      "server_address": "eternaldarkness.net",
-      "server_port": "9700",
-    },
-    {
       "mud_name": "Marauder Grid MUD",
       "server": "ExVenture",
       "site": "maraudergrid.com",
