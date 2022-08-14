@@ -141,5 +141,12 @@
       "server_address": "debomud.org",
       "server_port": "4000",
     },
+    {
+      "mud_name": "4 Dimensions",
+      "server": "CircleMUD",
+      "site": "4dimensions.org",
+      "server_address": "4dimensions.org",
+      "server_port": "6000",
+    },
   ]
 }
