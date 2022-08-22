@@ -18,8 +18,8 @@
     {
       "mud_name": "3rd Millennium",
       "server": "CircleMUD",
-      "site": "3m.funcity.org",
-      "server_address": "3m.funcity.org",
+      "site": "3m.vineyard.haus",
+      "server_address": "3m.vineyard.haus",
       "server_port": "3000",
     },
     {
@@ -95,8 +95,8 @@
     {
       "mud_name": "AkriosMUD",
       "server": "AkriosMUD",
-      "site": "akriosmud.funcity.org",
-      "server_address": "akriosmud.funcity.org",
+      "site": "akriosmud.vineyard.haus",
+      "server_address": "akriosmud.vineyard.haus",
       "server_port": "4000",
     },
     {
