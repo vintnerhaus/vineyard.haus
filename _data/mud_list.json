@@ -58,13 +58,6 @@
       "server_port": "3333",
     },
     {
-      "mud_name": "Stillborn",
-      "server": "MOO",
-      "site": "blackmagick.army",
-      "server_address": "blackmagick.army",
-      "server_port": "666",
-    },
-    {
       "mud_name": "The Builder Academy",
       "server": "CircleMUD",
       "site": "tbamud.com",
