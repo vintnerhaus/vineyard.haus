@@ -93,13 +93,6 @@
       "server_port": "4000",
     },
     {
-      "mud_name": "Marauder Grid MUD",
-      "server": "ExVenture",
-      "site": "maraudergrid.com",
-      "server_address": "maraudergrid.com",
-      "server_port": "5555",
-    },
-    {
       "mud_name": "Luminari MUD",
       "server": "CircleMUD",
       "site": "luminarimud.com",
