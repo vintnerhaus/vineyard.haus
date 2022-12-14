@@ -133,6 +133,13 @@
       "site": "4dimensions.org",
       "server_address": "4dimensions.org",
       "server_port": "6000",
+    },
+    {
+      "mud_name": "Dragonball GT MUD",
+      "server": "Custom",
+      "site": "dbzcr.vineyard.haus",
+      "server_address": "dbzcr.vineyard.haus",
+      "server_port": "7000",
     }
   ]
 }
