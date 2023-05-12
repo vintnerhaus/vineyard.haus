@@ -62,6 +62,13 @@
       "server": "CircleMUD",
       "site": "mud.timetoplaythegame.com",
       "server_address": "mud.timetoplaythegame.com",
+      "server_port": "3334",
+    },
+    {
+      "mud_name": "Ashes to Ashes",
+      "server": "CircleMUD",
+      "site": "mud.timetoplaythegame.com",
+      "server_address": "mud.timetoplaythegame.com",
       "server_port": "3333",
     },
     {
