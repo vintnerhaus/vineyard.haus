@@ -2,11 +2,11 @@
   "title": "MUDs hosted by Vineyard",
   "muds": [
     {
-      "mud_name": "EmpireMUD",
-      "server": "EmpireMUD 2.0",
-      "site": "empiremud.net",
-      "server_address": "empiremud.net",
-      "server_port": "4000",
+      "mud_name": "Daedal Macabre",
+      "server": "ROM",
+      "site": "daedal-macabre.org",
+      "server_address": "daedal-macabre.org",
+      "server_port": "9000",
     },
     {
       "mud_name": "PhoenixMUD",
