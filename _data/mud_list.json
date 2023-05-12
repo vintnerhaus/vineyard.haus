@@ -86,13 +86,6 @@
       "server_port": "5555",
     },
     {
-      "mud_name": "AkriosMUD",
-      "server": "AkriosMUD",
-      "site": "akriosmud.vineyard.haus",
-      "server_address": "akriosmud.vineyard.haus",
-      "server_port": "4000",
-    },
-    {
       "mud_name": "The Darkening Sun",
       "server": "Dawn of Time",
       "site": "darkeningsun.com",
