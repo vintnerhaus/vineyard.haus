@@ -2,13 +2,6 @@
   "title": "MUDs hosted by Vineyard",
   "muds": [
     {
-      "mud_name": "d20MUD: Star Wars",
-      "server": "CircleMUD",
-      "site": "d20mud.com",
-      "server_address": "mud.d20mud.com",
-      "server_port": "5500",
-    },
-    {
       "mud_name": "Daedal Macabre",
       "server": "ROM",
       "site": "daedal-macabre.org",
@@ -86,13 +79,6 @@
       "server_port": "2150",
     },
     {
-      "mud_name": "MidMUD",
-      "server": "ExVenture",
-      "site": "midmud.com",
-      "server_address": "midmud.com",
-      "server_port": "5555",
-    },
-    {
       "mud_name": "The Darkening Sun",
       "server": "Dawn of Time",
       "site": "darkeningsun.com",
@@ -126,6 +112,13 @@
       "site": "4dimensions.org",
       "server_address": "4dimensions.org",
       "server_port": "6000",
+    },
+    {
+      "mud_name": "d20MUD: Star Wars",
+      "server": "CircleMUD",
+      "site": "d20mud.com",
+      "server_address": "mud.d20mud.com",
+      "server_port": "5500",
     }
   ]
 }
