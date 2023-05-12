@@ -133,6 +133,13 @@
       "site": "dbzcr.vineyard.haus",
       "server_address": "dbzcr.vineyard.haus",
       "server_port": "7000",
+    },
+    {
+      "mud_name": "d20MUD: Star Wars",
+      "server": "CircleMUD",
+      "site": "d20mud.com",
+      "server_address": "mud.d20mud.com",
+      "server_port": "5500",
     }
   ]
 }
