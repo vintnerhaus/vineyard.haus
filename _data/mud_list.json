@@ -2,6 +2,13 @@
   "title": "MUDs hosted by Vineyard",
   "muds": [
     {
+      "mud_name": "d20MUD: Star Wars",
+      "server": "CircleMUD",
+      "site": "d20mud.com",
+      "server_address": "mud.d20mud.com",
+      "server_port": "5500",
+    },
+    {
       "mud_name": "Daedal Macabre",
       "server": "ROM",
       "site": "daedal-macabre.org",
@@ -72,13 +79,6 @@
       "server_port": "2150",
     },
     {
-      "mud_name": "Atlantis",
-      "server": "ExVenture",
-      "site": "atlantis.exventure.world",
-      "server_address": "atlantis.exventure.world",
-      "server_port": "5555",
-    },
-    {
       "mud_name": "MidMUD",
       "server": "ExVenture",
       "site": "midmud.com",
@@ -134,12 +134,5 @@
       "server_address": "dbzcr.vineyard.haus",
       "server_port": "7000",
     },
-    {
-      "mud_name": "d20MUD: Star Wars",
-      "server": "CircleMUD",
-      "site": "d20mud.com",
-      "server_address": "mud.d20mud.com",
-      "server_port": "5500",
-    }
   ]
 }
