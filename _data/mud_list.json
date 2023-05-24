@@ -119,6 +119,13 @@
       "site": "d20mud.com",
       "server_address": "mud.d20mud.com",
       "server_port": "5500",
+    },
+    {
+      "mud_name": "Crusify: Dro'xundus",
+      "server": "ROM",
+      "site": "turkmud.vineyard.haus",
+      "server_address": "turkmud.vineyard.haus",
+      "server_port": "5190",
     }
   ]
 }
