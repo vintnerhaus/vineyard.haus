@@ -114,13 +114,6 @@
       "server_port": "6000",
     },
     {
-      "mud_name": "d20MUD: Star Wars",
-      "server": "CircleMUD",
-      "site": "d20mud.com",
-      "server_address": "mud.d20mud.com",
-      "server_port": "5500",
-    },
-    {
       "mud_name": "Elysium MUSH",
       "server": "MUSH",
       "site": "www.fanficparadise.com/liananna/mushes/Elysium/Elysium.htm",
