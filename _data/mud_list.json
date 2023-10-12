@@ -121,6 +121,13 @@
       "server_port": "3337",
     },
     {
+      "mud_name": "DragonStone",
+      "server": "EOSII",
+      "site": "ds.vineyard.haus",
+      "server_address": "ds.vineyard.haus",
+      "server_port": "2345",
+    },
+    {
       "mud_name": "Crusify: Dro'xundus",
       "server": "ROM",
       "site": "turkmud.vineyard.haus",
