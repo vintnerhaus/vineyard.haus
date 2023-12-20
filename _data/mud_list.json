@@ -137,8 +137,8 @@
     {
       "mud_name": "Azereth",
       "server": "CircleMUD",
-      "site": "azereth.vineyard.haus",
-      "server_address": "azerethmud.weebly.com",
+      "site": "azerethmud.weebly.com",
+      "server_address": "azereth.vineyard.haus",
       "server_port": "8000",
     }
   ]
