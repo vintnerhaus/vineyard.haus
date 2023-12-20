@@ -133,6 +133,13 @@
       "site": "turkmud.vineyard.haus",
       "server_address": "turkmud.vineyard.haus",
       "server_port": "5190",
+    },
+    {
+      "mud_name": "Azereth",
+      "server": "CircleMUD",
+      "site": "azereth.vineyard.haus",
+      "server_address": "azerethmud.weebly.com",
+      "server_port": "8000",
     }
   ]
 }
