@@ -140,6 +140,13 @@
       "site": "azerethmud.weebly.com",
       "server_address": "azereth.vineyard.haus",
       "server_port": "8000",
+    },
+    {
+      "mud_name": "MARS",
+      "server": "ROM",
+      "site": "reaux.vineyard.haus",
+      "server_address": "reaux.vineyard.haus",
+      "server_port": "3033",
     }
   ]
 }
