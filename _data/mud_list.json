@@ -147,6 +147,13 @@
       "site": "reaux.vineyard.haus",
       "server_address": "reaux.vineyard.haus",
       "server_port": "3033",
+    },
+    {
+      "mud_name": "Wilde Adventures MUSH",
+      "server": "RhostMUSH",
+      "site": "wildeadventures.net",
+      "server_address": "wildeadventures.net",
+      "server_port": "1221",
     }
   ]
 }
