@@ -154,6 +154,13 @@
       "site": "wildeadventures.net",
       "server_address": "wildeadventures.net",
       "server_port": "1221",
+    },
+    {
+      "mud_name": "Colossus",
+      "server": "ROM",
+      "site": "colossus.vineyard.haus",
+      "server_address": "colossus.vineyard.haus",
+      "server_port": "10000",
     }
   ]
 }
