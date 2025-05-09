@@ -161,6 +161,13 @@
       "site": "colossus.vineyard.haus",
       "server_address": "colossus.vineyard.haus",
       "server_port": "10000",
+    },
+    {
+      "mud_name": "Inner Circle Mud",
+      "server": "DikuMUD",
+      "site": "innercircle.vineyard.haus",
+      "server_address": "innercircle.vineyard.haus",
+      "server_port": "7500",
     }
   ]
 }
