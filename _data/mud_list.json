@@ -163,6 +163,13 @@
       "server_port": "10000",
     },
     {
+      "mud_name": "Echoes of the Isles",
+      "server": "ROM",
+      "site": "islesmud.org",
+      "server_address": "islesmud.org",
+      "server_port": "3232",
+    },
+    {
       "mud_name": "Inner Circle Mud",
       "server": "DikuMUD",
       "site": "innercircle.vineyard.haus",
