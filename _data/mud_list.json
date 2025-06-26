@@ -175,6 +175,13 @@
       "site": "innercircle.vineyard.haus",
       "server_address": "innercircle.vineyard.haus",
       "server_port": "7500",
+    },
+    {
+      "mud_name": "Dimensional Echoes",
+      "server": "CircleMUD",
+      "site": "dimechoes.vineyard.haus",
+      "server_address": "dimechoes.vineyard.haus",
+      "server_port": "4009",
     }
   ]
 }
