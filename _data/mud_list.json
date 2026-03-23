@@ -182,6 +182,20 @@
       "site": "dimechoes.vineyard.haus",
       "server_address": "dimechoes.vineyard.haus",
       "server_port": "4009",
+    },
+    {
+      "mud_name": "Fixing the Volatile (FTV)",
+      "server": "LPMUD",
+      "site": "ftv.vineyard.haus",
+      "server_address": "ftv.vineyard.haus",
+      "server_port": "7000",
+    },
+    {
+      "mud_name": "Kitchen Sink MUD",
+      "server": "CircleMUD",
+      "site": "ksm.vineyard.haus",
+      "server_address": "ksm.vineyard.haus",
+      "server_port": "7171",
     }
   ]
 }
