@@ -191,6 +191,13 @@
       "server_port": "7000",
     },
     {
+      "mud_name": "Rome: The Eternal City ",
+      "server": "Evennia",
+      "site": "rome.vineyard.haus",
+      "server_address": "rome.vineyard.haus",
+      "server_port": "7530",
+    },
+    {
       "mud_name": "Kitchen Sink MUD",
       "server": "CircleMUD",
       "site": "ksm.vineyard.haus",
