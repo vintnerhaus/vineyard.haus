@@ -191,7 +191,7 @@
       "server_port": "7000",
     },
     {
-      "mud_name": "Rome: The Eternal City ",
+      "mud_name": "Rome: The Eternal City",
       "server": "Evennia",
       "site": "rome.vineyard.haus",
       "server_address": "rome.vineyard.haus",
@@ -203,6 +203,13 @@
       "site": "ksm.vineyard.haus",
       "server_address": "ksm.vineyard.haus",
       "server_port": "7171",
+    },
+    {
+      "mud_name": "Beyond TOS",
+      "server": "PennMUSH",
+      "site": "trekmush.vineyard.haus",
+      "server_address": "trekmush.vineyard.haus",
+      "server_port": "1701",
     }
   ]
 }
