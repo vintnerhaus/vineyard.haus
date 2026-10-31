@@ -210,6 +210,13 @@
       "site": "trekmush.vineyard.haus",
       "server_address": "trekmush.vineyard.haus",
       "server_port": "1701",
+    },
+    {
+      "mud_name": "Esmeria: Rise of the Dragons",
+      "server": "Evennia",
+      "site": "esmeria.vineyard.haus",
+      "server_address": "esmeria.vineyard.haus",
+      "server_port": "4013",
     }
   ]
 }
