@@ -217,6 +217,13 @@
       "site": "esmeria.vineyard.haus",
       "server_address": "esmeria.vineyard.haus",
       "server_port": "4013",
+    },
+    {
+      "mud_name": "World of Naruto",
+      "server": "ROM",
+      "site": "won.vineyard.haus",
+      "server_address": "won.vineyard.haus",
+      "server_port": "1999",
     }
   ]
 }
